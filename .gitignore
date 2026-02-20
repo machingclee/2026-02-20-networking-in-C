@@ -1,0 +1,15 @@
+# Compiled binaries
+client
+server
+socket
+select_example
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+
+# PDF (can regenerate from markdown)
+*.pdf
